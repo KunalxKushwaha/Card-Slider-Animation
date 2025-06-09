@@ -25,3 +25,4 @@ A modern and interactive **Card Slider Animation** built using **HTML**, **CSS**
 
 ## 📁 Project Structure
 
+# Author - Kunal Kushwaha📃
