@@ -14,7 +14,7 @@ A modern and interactive **Card Slider Animation** built using **HTML**, **CSS**
 
 ## 📸 Preview
 
-<img src = "" alt = "Slider Demo"> <!-- Replace with actual preview image path -->
+<img src = "/images/SS.png" alt = "Slider Demo"> <!-- Replace with actual preview image path -->
 
 ## 🛠️ Technologies Used
 
